@@ -7,9 +7,12 @@
 ## 使用方式
 
 ```bash
-cd test_mac    # 或 cd test_windows
+cd test_ma c    # 或 cd test_windows
 mvn clean package
 java -jar target/mac-diagnostic-tool-1.0.0.jar
 ```
 
 浏览器访问 `http://localhost:8080/diagnostic` 查看 JSON 结果。
+
+
+##所以这东西怎么运行，你能帮帮我吗.jpg
