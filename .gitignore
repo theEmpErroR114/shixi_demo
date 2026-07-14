@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Eclipse JDT LS (VSCode Java)
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Spring Boot DevTools
+.spring-boot-devtools.properties
