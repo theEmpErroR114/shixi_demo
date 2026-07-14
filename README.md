@@ -20,4 +20,3 @@ cd test_mac
 浏览器访问 `http://localhost:8080/diagnostic` 查看 JSON 结果。
 
 
-##所以这东西怎么运行，你能帮帮我吗.jpg
